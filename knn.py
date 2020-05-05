@@ -4,7 +4,7 @@ Created on Thu Apr 23 09:33:31 2020
 
 @author: Lenovo
 """
-
+#使用训练集验证测试集
  
 import operator
 import struct
