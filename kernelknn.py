@@ -57,5 +57,5 @@ class KernelKNN():
                 correct_num += 1
         print('Classification Accuracy for kernel k-NN:%.2f%%' % (correct_num / prediction.shape[0]) * 100.0 )
         print('====================================')
-        accuracy = (correct_num / prediction.shape[0]) * 100.0  
+        accuracy = (correct_num / prediction.shape[0]) * 100.0)  
         return  accuracy
